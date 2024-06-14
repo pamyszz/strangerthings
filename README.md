@@ -1,4 +1,4 @@
-# ** Stranger Things - Intro**
+# **💾 Stranger Things - Intro**
 
 _Este projeto é uma recriação da icônica sequência de título de "Stranger Things" usando JavaScript, HTML e CSS._
 
