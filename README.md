@@ -1,10 +1,11 @@
- # **💾 Stranger Things - Intro** #
+# **💾 Stranger Things - Intro**
+
 _Este projeto é uma recriação da icônica sequência de título de "Stranger Things" usando JavaScript, HTML e CSS._
 
 ![Stranger Things](strangerthings.jpeg)
 
-
 ## 📺 Introdução
+
 A introdução inclui animações e transições de texto dinâmicas, sincronizadas com uma faixa de áudio. O projeto utiliza verificações do Modernizr para garantir a compatibilidade com recursos essenciais e fornece alternativas para navegadores não suportados.
 
 ---
@@ -19,6 +20,9 @@ A introdução inclui animações e transições de texto dinâmicas, sincroniza
 
 ## 📋 Uso
 
+**Link**: Abra no Google Chrome para uma melhor experiência: [Stranger Things Intro](https://strangerthings-sigma.vercel.app/) 
+
+**No código - Implementação**
 1. Clone o repositório.
     ```sh
     git clone https://github.com/pamyszz/strangerthings.git
@@ -29,11 +33,13 @@ A introdução inclui animações e transições de texto dinâmicas, sincroniza
 ---
 
 ## 🎨 Personalização
+
 Sinta-se à vontade para personalizar o texto, as cores e outros elementos visuais modificando os arquivos HTML e CSS. Adicione sua própria faixa de áudio para personalizar a experiência.
 
 ---
 
 ## 💡 Agradecimentos
+
 - O projeto é inspirado na sequência de título de "Stranger Things".
 - Faixa de áudio: "StrangerThings.mp3".
 
